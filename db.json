@@ -4,7 +4,7 @@
       "id": 1,
       "title": "Вклад Гибкий",
       "slogan": "Ваши деньги - ваши правила: снимай и пополняй в любое время!",
-      "imageLink": "https://i.ibb.co/ZR97bYdL/image.jpg",
+      "imageLink": "https://i.ibb.co/VcxXjKqn/vklad.png",
       "productType": "DEPOSIT",
       "productId": 2,
       "benefits": [
@@ -29,7 +29,7 @@
       "id": 2,
       "title": "Кредит на неотложные нужды",
       "slogan": "Когда нужно срочно - кредит рядом!",
-      "imageLink": "https://i.ibb.co/mrkrrj4W/image.png",
+      "imageLink": "https://i.ibb.co/gb8KKBvQ/kredit.png",
       "productType": "CREDIT",
       "productId": 1,
       "benefits": [
