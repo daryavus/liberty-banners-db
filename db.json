@@ -1,24 +1,54 @@
 {
-  "data": {
-      "banners": [
+  "bannersId": [
     {
       "id": 1,
       "title": "Вклад Гибкий",
-      "slogan": "Вклад Гибкий — максимальная свобода для ваших финансов. Получите гибкость и прибыль одновременно, накапливайте деньги с комфортом!",
-      "imageLink": "https://i.ibb.co/8gqzWZg7/piggy-bank.png"
+      "slogan": "Ваши деньги - ваши правила: снимай и пополняй в любое время!",
+      "imageLink": "https://ibb.co/ZR97bYdL",
+      "productType": "DEPOSIT",
+      "productId": 2,
+      "benefits": [
+        {
+          "title": "От 6 месяцев до 6 лет",
+          "subtitle": "срок вклада",
+          "position": 1
+        },
+        {
+          "title": "От 5 000 ₽",
+          "subtitle": "сумма вклада",
+          "position": 2
+        },
+        {
+          "title": "От 4% до 7% годовых",
+          "subtitle": "в зависимости от срока и суммы",
+          "position": 3
+        }
+      ]
     },
     {
       "id": 2,
       "title": "Кредит на неотложные нужды",
-      "slogan": "Свобода и простота в решении финансовых вопросов. Минимум документов, гибкие условия погашения, деньги для ваших целей!",
-      "imageLink": "https://i.ibb.co/nsKrgJj9/piggybank-with-sunglasses-1.png"
-    },
-    {
-      "id": 3,
-      "title": "Test",
-      "slogan": "Test",
-      "imageLink": "https://i.ibb.co/8gqzWZg7/piggy-bank.png"
+      "slogan": "Когда нужно срочно - кредит рядом!",
+      "imageLink": "https://ibb.co/mrkrrj4W",
+      "productType": "CREDIT",
+      "productId": 1,
+      "benefits": [
+        {
+          "title": "До 5 лет",
+          "subtitle": "срок кредита",
+          "position": 1
+        },
+        {
+          "title": "До 500 000 ₽",
+          "subtitle": "сумма кредита",
+          "position": 2
+        },
+        {
+          "title": "От 10% до 20% годовых",
+          "subtitle": "ставка",
+          "position": 3
+        }
+      ]
     }
-    ]
-  }
+  ]
 }
